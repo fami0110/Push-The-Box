@@ -3,7 +3,7 @@ It's puzzle game built using C++ and SFML library. This project was made for fin
 
 ### latest version : 1.9
 
-> If you just want to play the game, download the release file instead at `./bin/Released`. But if you want to see the code, you can download this project and open it in Codeblocks
+> If you just want to play the game, download the project and run the exe file on `./bin/Release/Push_the_Box!.exe`. But if you want to see the code, you can download this project and open it in Codeblocks
 
 ### Credits:
 
